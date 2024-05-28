@@ -1,0 +1,116 @@
+[
+  {
+    "id": "clear",
+    "function": "clear",
+    "text": "C",
+    "color": "light-gray"
+  },
+  {
+    "id": "negative",
+    "function": "negative",
+    "text": "+/-",
+    "color": "light-gray"
+  },
+  {
+    "id": "percentage",
+    "function": "percentage",
+    "text": "%",
+    "color": "light-gray"
+  },
+  {
+    "id": "divide",
+    "function": "/",
+    "text": "/",
+    "color": "yellow"
+  },
+  {
+    "id": "seven",
+    "function": "7",
+    "text": "7",
+    "color": "dark-gray"
+  },
+  {
+    "id": "eight",
+    "function": "8",
+    "text": "8",
+    "color": "dark-gray"
+  },
+  {
+    "id": "nine",
+    "function": "9",
+    "text": "9",
+    "color": "dark-gray"
+  },
+  {
+    "id": "multiply",
+    "function": "*",
+    "text": "*",
+    "color": "yellow"
+  },
+  {
+    "id": "four",
+    "function": "4",
+    "text": "4",
+    "color": "dark-gray"
+  },
+  {
+    "id": "five",
+    "function": "5",
+    "text": "5",
+    "color": "dark-gray"
+  },
+  {
+    "id": "six",
+    "function": "6",
+    "text": "6",
+    "color": "dark-gray"
+  },
+  {
+    "id": "subtract",
+    "function": "-",
+    "text": "-",
+    "color": "yellow"
+  },
+  {
+    "id": "one",
+    "function": "1",
+    "text": "1",
+    "color": "dark-gray"
+  },
+  {
+    "id": "two",
+    "function": "2",
+    "text": "2",
+    "color": "dark-gray"
+  },
+  {
+    "id": "three",
+    "function": "3",
+    "text": "3",
+    "color": "dark-gray"
+  },
+  {
+    "id": "add",
+    "function": "+",
+    "text": "+",
+    "color": "yellow"
+  },
+  {
+    "id": "zero",
+    "function": "0",
+    "text": "0",
+    "color": "dark-gray"
+  },
+  {
+    "id": "decimal",
+    "function": ".",
+    "text": ".",
+    "color": "dark-gray"
+  },
+  {
+    "id": "equals",
+    "function": "=",
+    "text": "=",
+    "color": "dark-gray"
+  }
+]
